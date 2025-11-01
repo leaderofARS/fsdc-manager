@@ -121,7 +121,7 @@ export default function LandingPage() {
       <section className="py-20 max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center gap-12">
         <div className="md:w-1/2">
           <Image
-            src="https://wplxxeanbifsazydyljw.supabase.co/storage/v1/object/public/avatars/bg-grid.jpg"
+            src="app/img/bg.jpg"
             draggable="false"
             alt="Team collaboration"
             width={500}
